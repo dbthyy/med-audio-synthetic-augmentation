@@ -17,7 +17,7 @@
 
 ---
 
-## 📝 Chi Tiết Từng Cấu Phần
+## 📝 Chi Tiết Từng Phần
 
 ### 1. `01_data_preprocessing.py` — Tiền Xử Lý Dữ Liệu
 
